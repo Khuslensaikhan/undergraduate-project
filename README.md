@@ -274,7 +274,7 @@ Requires authentication. Recommendations are generated based on:
 🎓 **Final Year / Undergraduate Project**
 ✅ Winner of the 2025 Undergraduate Project exhibition
 
-![gGauge App Screenshot](./screenshot.png)
+![gGauge App Screenshot](./poster.png)
 
 
 
