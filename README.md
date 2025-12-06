@@ -41,6 +41,10 @@ The gGauge backend works as an intelligent health engine that:
 
 ---
 
+![gGauge App Screenshot](./poster.png)
+
+---
+
 ## 🔐 Authentication Endpoints
 
 ### ✅ Signup
@@ -273,9 +277,5 @@ Requires authentication. Recommendations are generated based on:
 
 🎓 **Final Year / Undergraduate Project**
 ✅ Winner of the 2025 Undergraduate Project exhibition
-
-![gGauge App Screenshot](./poster.png)
-
-
 
 
