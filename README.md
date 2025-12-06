@@ -1,9 +1,3 @@
-Great project — this is exactly the kind of backend that looks impressive on GitHub. Below is a **clean, professional, ready-to-paste GitHub README project description** for your backend service.
-
-You can copy this directly into your `README.md` and adjust names if needed.
-
----
-
 # 🩸 gGauge Backend API
 
 This repository contains the **backend service** for the **gGauge Flutter mobile application**, a smart health monitoring system designed to track glucose levels, provide AI-powered health assistance, and generate personalized food recommendations.
@@ -278,28 +272,10 @@ Requires authentication. Recommendations are generated based on:
 ## ✅ Project Status
 
 🎓 **Final Year / Undergraduate Project**
-✅ Fully functional backend
-✅ Postman tested
-✅ Cloud deployed
-✅ Integrated with custom hardware & mobile app
+✅ Winner of the 2025 Undergraduate Project exhibition
 
----
+![gGauge App Screenshot](./screenshot.png)
 
-## 📌 Future Improvements
 
-* Real-time WebSocket updates for glucose values
-* Doctor/Admin dashboard
-* Advanced ML-based glucose prediction
-* Nutrition tracking & meal planner
-* Cloud medical history export
 
----
 
-If you want, I can also:
-
-✅ Add **installation & setup instructions**
-✅ Add **environment variables (.env) section**
-✅ Add **database schema overview**
-✅ Add **Swagger / OpenAPI documentation template**
-
-Just tell me what stack you used exactly (MongoDB? MySQL?) and I’ll upgrade this README to production level.
